@@ -1,0 +1,6 @@
+rax changed from 0x1 to 0x6 after syscall
+rcx changed from 0x0 to 0x40101b after syscall
+r11 changed from 0x0 to 0x302
+rip changed from 0x401019<_start+25> to <_start+27>
+
+All other registers remained the same
